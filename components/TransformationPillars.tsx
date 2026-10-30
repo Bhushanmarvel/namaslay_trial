@@ -20,16 +20,16 @@ export default function TransformationPillars() {
             />
 
             <h2 className="mt-6 text-3xl font-bold uppercase text-white">
-              Personal Coaching
+              Program Details
             </h2>
 
             <p className="mt-3 text-sm leading-6 text-zinc-400">
-              Personalised fitness coaching designed
-              around your goals, lifestyle and transformation.
+              Explore our personalised fitness transformation program, 
+              including workout planning, nutrition guidance, progress tracking and coaching support.
             </p>
 
             <div className="mt-auto flex items-center gap-2 pt-6 text-sm font-semibold uppercase text-[var(--gold)]">
-              Explore Coaching
+              Explore Program
               <ArrowUpRight size={18} />
             </div>
           </a>
