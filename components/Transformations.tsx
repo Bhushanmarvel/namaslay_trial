@@ -8,7 +8,7 @@ const transformations = [
   { id: 3, image: "/images/Transformations/Client3.jpeg" },
   { id: 4, image: "/images/Transformations/Client4.jpeg" },
   { id: 5, image: "/images/Transformations/Client5.jpeg" },
-  { id: 6, image: "/images/Transformations/Client6.jpeg" },
+  { id: 6, image: "/images/Transformations/client6.jpeg" },
 ];
 
 export default function Transformations() {
