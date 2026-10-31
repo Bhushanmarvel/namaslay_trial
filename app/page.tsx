@@ -1,3 +1,4 @@
+import ProgramDetails from "@/components/ProgramDetails";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Transformations from "@/components/Transformations";
@@ -15,6 +16,7 @@ export default function Home() {
       <Transformations />
       <Intro />
       <TransformationPillars />
+      <ProgramDetails />
 
       <section className="bg-white py-10">
         <div className="container-custom grid gap-6 lg:grid-cols-2">
