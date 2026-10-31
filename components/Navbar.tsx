@@ -24,11 +24,13 @@ const NAV_ITEMS = [
     href: "#services",
     icon: Dumbbell,
   },
+  /*
   {
     label: "Newsletter",
     href: "/newsletter",
     icon: Mail,
   },
+  */
   {
     label: "Contact",
     href: "#contact",
