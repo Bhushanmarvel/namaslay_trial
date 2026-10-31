@@ -11,7 +11,7 @@ export default function TransformationPillars() {
 
           {/* Personal Coaching */}
           <a
-            href="#contact"
+            href="#program-details"
             className="group flex min-h-[240px] flex-col rounded-2xl border border-[var(--gold)] bg-zinc-950 p-8 transition-all duration-300 hover:-translate-y-1 hover:bg-zinc-900"
           >
             <Dumbbell
